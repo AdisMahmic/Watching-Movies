@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/32083e83-2492-465e-b97c-b554029c7659" alt="Movies_end_of_year_2017" width="800">
+
 # Watching-Movies
 Ever wondered how movies from different eras compare to eachother in terms of sales and reviews? Ever had the age old question of whether marvel or DC is better? Well now with the watching movies repository, All of your questions can finally be answered and more!
 
