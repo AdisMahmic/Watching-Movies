@@ -94,7 +94,7 @@ To gain hands-on experience with R, I created an R Markdown file in RStudio and 
 [R-Markdown HTML](https://rpubs.com/Adis_M2003/1340175)
 ## JSON File of Dataset:
 
-[movies dataset JSON](movies-dataset-JSON.json)
+[movies dataset JSON](Movies-Dataset-JSON.json)
 
 
 
