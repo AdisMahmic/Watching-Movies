@@ -89,7 +89,9 @@ I then used the sed command to replace the word "The" with 3 astrix instead.
 amahm@AdisSurface MINGW64 ~/downloads/ITEC4220 (master)
 $ sed -E 's/^("[^"]+"),"The/\1,"***/' filtered1.csv > final.csv
 ```
-
+## R-Markdown HTML File
+To gain hands-on experience with R, I created an R Markdown file in RStudio and experimented with basic commands such as generating histograms and running t-tests.
+[R-Markdown HTML](https://rpubs.com/Adis_M2003/1340175)
 
 
 
